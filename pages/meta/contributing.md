@@ -6,7 +6,7 @@ toc: false
 permalink: help/contributing/
 ---
 
-So, you've decided you want to contribute to PixelExperience. Awesome! This page will give you a quick overview of what you can do to contribute.
+So, you've decided you want to contribute to Havoc-OS. Awesome! This page will give you a quick overview of what you can do to contribute.
 
 ## Source code and features
 
@@ -18,7 +18,7 @@ To work with the source code, you can check the following links:
 
 ## Translations
 
-Want to see PixelExperience in your favorite language? Or it's already there but incomplete? Then [this guide]({{ site.baseurl }}/help/translate/) is for you.
+Want to see Havoc-OS in your favorite language? Or it's already there but incomplete? Then [this guide]({{ site.baseurl }}/help/translate/) is for you.
 
 ## Wiki
 
